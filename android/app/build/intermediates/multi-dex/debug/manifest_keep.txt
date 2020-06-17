@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:45
+-keep class com.tailpos.MainApplication { <init>(...); }
+

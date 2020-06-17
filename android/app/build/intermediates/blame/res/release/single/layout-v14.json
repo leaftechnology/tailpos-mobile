@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/release/layout-v14/texture_view.xml",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/TailPOS/react-native-camera/unspecified/res/layout-v14/texture_view.xml"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/release/layout-v14/texture_view.xml",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/TailPOS/react-native-camera/unspecified/res/layout-v14/texture_view.xml"
+    }
+]

@@ -1,0 +1,772 @@
+[
+    {
+        "outputFile": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa/values-pa.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 104,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 204,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 350,
+                        "endColumn": 204,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 131,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 555,
+                        "endColumn": 127,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 110,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 683,
+                        "endColumn": 106,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 205,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 790,
+                        "endColumn": 205,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 130,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 996,
+                        "endColumn": 126,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 142,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1123,
+                        "endColumn": 138,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 132,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1262,
+                        "endColumn": 128,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 209,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 247,
+                        "endColumn": 209,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 220,
+                    "endOffset": 1701
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1391,
+                        "endColumn": 220,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1706,
+                    "endColumn": 110,
+                    "endOffset": 1812
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1612,
+                        "endColumn": 106,
+                        "endOffset": 1718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1817,
+                    "endColumn": 203,
+                    "endOffset": 2016
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1719,
+                        "endColumn": 203,
+                        "endOffset": 1922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2021,
+                    "endColumn": 133,
+                    "endOffset": 2150
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1923,
+                        "endColumn": 129,
+                        "endOffset": 2052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2155,
+                    "endColumn": 211,
+                    "endOffset": 2362
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2053,
+                        "endColumn": 211,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2367,
+                    "endColumn": 190,
+                    "endOffset": 2553
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2265,
+                        "endColumn": 186,
+                        "endOffset": 2451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2558,
+                    "endColumn": 95,
+                    "endOffset": 2649
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2452,
+                        "endColumn": 91,
+                        "endOffset": 2543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2654,
+                    "endColumn": 95,
+                    "endOffset": 2745
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2544,
+                        "endColumn": 91,
+                        "endOffset": 2635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2750,
+                    "endColumn": 110,
+                    "endOffset": 2856
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 2636,
+                        "endColumn": 106,
+                        "endOffset": 2742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2861,
+                    "endColumn": 100,
+                    "endOffset": 2957
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 192,
+                        "endColumn": 96,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2962,
+                    "endColumn": 100,
+                    "endOffset": 3058
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/res/values-pa/values-pa.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa/values-pa.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 104,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 204,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 350,
+                        "endColumn": 204,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 131,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 555,
+                        "endColumn": 127,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 110,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 683,
+                        "endColumn": 106,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 205,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 790,
+                        "endColumn": 205,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 130,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 996,
+                        "endColumn": 126,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 142,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1123,
+                        "endColumn": 138,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 132,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1262,
+                        "endColumn": 128,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 209,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 247,
+                        "endColumn": 209,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 220,
+                    "endOffset": 1701
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1391,
+                        "endColumn": 220,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1706,
+                    "endColumn": 110,
+                    "endOffset": 1812
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1612,
+                        "endColumn": 106,
+                        "endOffset": 1718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1817,
+                    "endColumn": 203,
+                    "endOffset": 2016
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1719,
+                        "endColumn": 203,
+                        "endOffset": 1922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2021,
+                    "endColumn": 133,
+                    "endOffset": 2150
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1923,
+                        "endColumn": 129,
+                        "endOffset": 2052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2155,
+                    "endColumn": 211,
+                    "endOffset": 2362
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2053,
+                        "endColumn": 211,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2367,
+                    "endColumn": 190,
+                    "endOffset": 2553
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2265,
+                        "endColumn": 186,
+                        "endOffset": 2451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2558,
+                    "endColumn": 95,
+                    "endOffset": 2649
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2452,
+                        "endColumn": 91,
+                        "endOffset": 2543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2654,
+                    "endColumn": 95,
+                    "endOffset": 2745
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2544,
+                        "endColumn": 91,
+                        "endOffset": 2635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2750,
+                    "endColumn": 110,
+                    "endOffset": 2856
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 2636,
+                        "endColumn": 106,
+                        "endOffset": 2742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2861,
+                    "endColumn": 100,
+                    "endOffset": 2957
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/12.0.1/res/values-pa/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 192,
+                        "endColumn": 96,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2962,
+                    "endColumn": 100,
+                    "endOffset": 3058
+                },
+                "from": {
+                    "file": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/res/values-pa/values-pa.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

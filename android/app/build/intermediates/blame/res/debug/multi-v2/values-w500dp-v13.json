@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/jiloysss/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/937f8ed7a8a691c178bd5a3b1ca727a9/res/values-w500dp/values-w500dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "283",
+                        "endColumns": "54",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

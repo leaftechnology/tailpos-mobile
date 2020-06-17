@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/debug/drawable-ldpi/whole_text_logo.png",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/src/main/res/drawable-ldpi/whole_text_logo.png"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/debug/drawable-ldpi/logo.png",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/debug/drawable-ldpi/foot_long_logo.png",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/src/main/res/drawable-ldpi/foot_long_logo.png"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/debug/drawable-ldpi/foot_long_logo.png",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/src/main/res/drawable-ldpi/foot_long_logo.png"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/debug/drawable-ldpi/screen.png",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/src/main/res/drawable-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/debug/drawable-ldpi/screen.png",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/src/main/res/drawable-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/debug/drawable-ldpi/whole_text_logo.png",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/src/main/res/drawable-ldpi/whole_text_logo.png"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/debug/drawable-ldpi/logo.png",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/src/main/res/drawable-ldpi/logo.png"
+    }
+]

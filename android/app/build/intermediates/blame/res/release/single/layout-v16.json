@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/release/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/release/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/release/drawable-land-mdpi/screen.png",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/release/drawable-land-mdpi/screen.png",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    }
+]

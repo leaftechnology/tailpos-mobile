@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/debug/raw/beep.mp3",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/src/main/res/raw/beep.mp3"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/debug/raw/beep.mp3",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/src/main/res/raw/beep.mp3"
+    }
+]

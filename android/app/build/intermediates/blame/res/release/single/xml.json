@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/release/xml/nfc_tech_filter.xml",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/src/main/res/xml/nfc_tech_filter.xml"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/jiloysss/Projects/tailpos-1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/build/intermediates/res/merged/release/xml/nfc_tech_filter.xml",
+        "source": "/home/jiloysss/Projects/test_for_printing/tailpos-1/android/app/src/main/res/xml/nfc_tech_filter.xml"
+    }
+]
